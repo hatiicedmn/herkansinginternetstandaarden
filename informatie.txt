@@ -1,0 +1,25 @@
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+https://www.youtube.com/watch?v=csY6KW7cIUM&ab_channel=GeekBase
+
+https://www.youtube.com/watch?v=phWxA89Dy94&t=99s&ab_channel=SlayingTheDragon
+
+https://www.tiktok.com/@aymenacooks/video/7266802698979151137?is_from_webapp=1&sender_device=pc&web_id=7267535333901534752
+                
+https://thewoksoflife.com/red-curry-chicken/ 
+
+https://www.youtube.com/watch?v=LYE7f2xN-Rs&ab_channel=%23SmartCode
+
+https://www.scaler.com/topics/image-button-in-html/
+
+https://stackoverflow.com/questions/35578404/giving-wrapped-flexbox-items-vertical-spacing
+
+
+dingen dat ik heb aangepast:
+-de header heeft nu een specifieke layout and een img
+-de kleuren thema van mijn site is een beetje anders
+-schaduwen neergezet bij mijn containers op pagina 1
+-de stijl van de search bar op pagina 2
+-de layout van de recepten op pagina 2
+-op pagina 3 een lijstje gemaakt van de benodigde ingredienten
+-de layout van de stappen zijn meer overzichtelijk op pagina 3
